@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"timestamp": "08-11-22 11:49:03",
+		"title": "celular",
+		"description": "celular",
+		"code": "a",
+		"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMIYOmS0jlH25OCe9ICj0q3hx5OOrihmY7IPHwSnQHnM-9OaG2qe-hq7PBe87vUzdvEME&usqp=CAU",
+		"value": 23698745,
+		"stock": 4
+	},
+	{
+		"id": 2,
+		"timestamp": "08-11-2022 19:11:66",
+		"title": "no se, casita :)",
+		"description": "casa",
+		"code": "b",
+		"photo": "https://http2.mlstatic.com/D_NQ_NP_677956-MCO44617601660_012021-V.jpg",
+		"value": 152000,
+		"stock": 9
+	}
+]
